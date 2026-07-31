@@ -18,6 +18,31 @@ This project demonstrates an end-to-end Data Analytics workflow by transforming 
 
 The dashboard enables hospital management to monitor key performance indicators (KPIs), evaluate revenue trends, analyze doctor performance, track treatments, and identify operational improvement opportunities.
 
+## 📑 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Background](#-background)
+- [Technologies Used](#-technologies-used)
+- [Business Problem](#-business-problem)
+- [Business Goal](#-business-goal)
+- [Business Questions](#-business-questions)
+- [Dataset Description](#-dataset-description)
+- [Data Dictionary](#-data-dictionary)
+- [Database Design](#-database-design)
+- [Power BI Data Model](#-power-bi-data-model)
+- [Data Preparation](#-data-preparation)
+- [Database Implementation](#-database-implementation)
+- [SQL Analysis](#-sql-analysis)
+- [Power BI Implementation](#-power-bi-implementation)
+- [DAX Measures](#-dax-measures)
+- [Dashboard Pages](#-dashboard-pages)
+- [Key Insights](#-key-insights)
+- [Business Recommendations](#-business-recommendations)
+- [Project Challenges](#-project-challenges)
+- [Lessons Learned](#-lessons-learned)
+- [Future Improvements](#-future-improvements)
+- [Author](#-author)
+
 ## 📖 Background
 
 Hospitals generate large volumes of operational and financial data every day. This information includes patient records, doctor details, appointments, treatments, and billing transactions. When these datasets are stored separately, it becomes difficult for management to monitor performance, identify operational trends, and make informed decisions.

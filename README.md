@@ -410,25 +410,43 @@ Potential enhancements include:
 - Department-level performance reporting
 - Advanced drill-through pages and tooltips
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
-**Esther Ohuenene Emmanuel**
+## Esther Ohuenene Emmanuel
 
- Data Analyst
+**Junior Data Analyst | IBM Certified Data Analyst**
 
-### Skills
+I am an entry-level Data Analyst passionate about transforming raw data into meaningful business insights using SQL, PostgreSQL, Power BI, Excel, and Python.
 
-- SQL
-- PostgreSQL
+This project demonstrates my ability to:
+
+- Design relational databases
+- Perform SQL analysis
+- Build interactive Power BI dashboards
+- Create DAX measures
+- Communicate business insights through data storytelling
+
+---
+
+### 🛠 Skills
+
 - Power BI
+- PostgreSQL
+- SQL
 - Microsoft Excel
 - Python
 - Data Visualization
 - Business Intelligence
+- Data Cleaning
+- Dashboard Development
 
-Feel free to connect with me on LinkedIn and explore more of my projects on GitHub.
+---
 
+### 📫 Connect With Me
 
+- **LinkedIn:** *www.linkedin.com/in/esther-emmanuel-654034292*
+- **GitHub:**https://github.com/NENE-202 **
+- **Email:** *emmanueloziowuh@gmail.com*
 
 
 

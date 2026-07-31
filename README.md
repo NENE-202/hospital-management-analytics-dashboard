@@ -1,8 +1,14 @@
 # 🏥 Hospital Management Analytics Dashboard
 
-### Patient • Appointments • Billing • Treatments • Revenue Analysis
+A comprehensive Business Intelligence project that analyzes hospital operations, patient management, doctor performance, treatments, and revenue using **Power BI**, **PostgreSQL**, **SQL**, and **Excel**.
 
-An interactive Business Intelligence project that analyzes hospital operations using **PostgreSQL, SQL, Power BI, and DAX**. The dashboard helps hospital management monitor operational performance, financial performance, patient activity, doctor workload, and treatment trends to support data-driven decision-making.
+---
+
+## 📌 Project Overview
+
+This project demonstrates an end-to-end Data Analytics workflow by transforming raw hospital operational data into interactive dashboards that support executive decision-making.
+
+The dashboard enables hospital management to monitor key performance indicators (KPIs), evaluate revenue trends, analyze doctor performance, track treatments, and identify operational improvement opportunities.
 
 
 ## 📌 Project Overview

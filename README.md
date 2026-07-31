@@ -1,7 +1,15 @@
 # 🏥 Hospital Management Analytics Dashboard
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-512BD4?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 A comprehensive Business Intelligence project that analyzes hospital operations, patient management, doctor performance, treatments, and revenue using **Power BI**, **PostgreSQL**, **SQL**, and **Excel**.
+## 📷 Dashboard Preview
 
+![Executive Dashboard](images/executive-dashboard.png)
 ---
 
 ## 📌 Project Overview
@@ -10,8 +18,7 @@ This project demonstrates an end-to-end Data Analytics workflow by transforming 
 
 The dashboard enables hospital management to monitor key performance indicators (KPIs), evaluate revenue trends, analyze doctor performance, track treatments, and identify operational improvement opportunities.
 
-
-## 📌 Project Overview
+## 📖 Background
 
 Hospitals generate large volumes of operational and financial data every day. This information includes patient records, doctor details, appointments, treatments, and billing transactions. When these datasets are stored separately, it becomes difficult for management to monitor performance, identify operational trends, and make informed decisions.
 
